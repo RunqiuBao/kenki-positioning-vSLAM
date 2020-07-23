@@ -1,0 +1,1 @@
+./stereo_ral /pathtovocabulary /pathtodataset mav0/cam-para.yaml mav0/semantic-list.txt result/SD/1/ 0.6 1 3 10

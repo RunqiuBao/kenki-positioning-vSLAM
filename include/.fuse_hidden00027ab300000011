@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <vector>
+
+#ifndef MYSTRUCT_H3
+#define MYSTRUCT_H3
+
+struct MaskSetSD{//runqiu: the masks set for one frame, including static or dynamic label for the objects
+    std::vector<std::string> labels;
+    std::vector<bbox> bboxes;
+    std::vector<bool> isdynamic;
+};
+
+#endif

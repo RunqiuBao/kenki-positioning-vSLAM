@@ -1,0 +1,4 @@
+/home/runqiu/Desktop/ORB_SLAM2/code-opensource/kenki-posi/build/CMakeFiles/rebuild_cache.dir
+/home/runqiu/Desktop/ORB_SLAM2/code-opensource/kenki-posi/build/CMakeFiles/stereo_ral.dir
+/home/runqiu/Desktop/ORB_SLAM2/code-opensource/kenki-posi/build/CMakeFiles/edit_cache.dir
+/home/runqiu/Desktop/ORB_SLAM2/code-opensource/kenki-posi/build/CMakeFiles/kenki-posi.dir
