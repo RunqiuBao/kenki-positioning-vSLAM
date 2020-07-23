@@ -2,6 +2,13 @@
 This project is for real-time positioning for construction machines at dynamic construction sites using stereo visual SLAM.
 
 ----------------------------------------
+## How to use?
+- First install the dependencies.
+- Download our dataset for the demo.
+- Build with the script build.sh.
+- Run the demo with the script Example/Stereo/auto10.sh
+
+----------------------------------------
 ## Dependencies
 **C++11 or C++0x Compiler**<br>
 We use the new thread and chrono functionalities of C++11.
