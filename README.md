@@ -1,6 +1,6 @@
 # kenki-posi
 This project is for real-time positioning for construction machines at dynamic construction sites using stereo visual SLAM.<br>
-![image](https://media.giphy.com/media/QyPMp6Uyjc5vyCYv7b/giphy.gif)
+![](https://github.com/RunqiuBao/kenki-posi/build/kenki-posi.gif)
 
 ----------------------------------------
 ## How to use?
