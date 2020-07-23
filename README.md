@@ -1,2 +1,2 @@
 # kenki-posi
-positioning with stereo visual SLAM for construction machines at dynamic construction sites
+This project is for real-time positioning for construction machines at dynamic construction sites using stereo visual SLAM.
