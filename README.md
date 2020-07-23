@@ -71,7 +71,8 @@ make install
 We use modified versions of the [DBoW2](https://github.com/dorian3d/DBoW2) library to perform place recognition and [g2o](https://github.com/RainerKuemmerle/g2o) library to perform non-linear optimizations. Both modified libraries (which are BSD) are included in the *Thirdparty* folder.
 
 ----------------------------------------
-## Dataset
+## Dataset<br>
+Large file alert (10GB)!!<br>
 [mydataset](https://drive.google.com/file/d/1OPh0pPgMUlDg8l0BVCaS8fnzbx-rpWPL/view?usp=sharing)
 ----------------------------------------
 ## Citation
