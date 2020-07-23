@@ -71,6 +71,9 @@ make install
 We use modified versions of the [DBoW2](https://github.com/dorian3d/DBoW2) library to perform place recognition and [g2o](https://github.com/RainerKuemmerle/g2o) library to perform non-linear optimizations. Both modified libraries (which are BSD) are included in the *Thirdparty* folder.
 
 ----------------------------------------
+## Dataset
+
+----------------------------------------
 ## Citation
 This work is based on ORB-SLAM2, please cite:
 
