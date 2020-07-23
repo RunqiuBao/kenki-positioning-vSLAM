@@ -3,10 +3,10 @@ This project is for real-time positioning for construction machines at dynamic c
 
 ----------------------------------------
 ## Dependencies
-**C++11 or C++0x Compiler**
+**C++11 or C++0x Compiler**<br>
 We use the new thread and chrono functionalities of C++11.
 
-**Pangolin**
+**Pangolin**<br>
 We use [Pangolin](https://github.com/stevenlovegrove/Pangolin) for visualization and user interface. Install it like this:
 ```
 cd /path/to/working/dir
@@ -23,7 +23,7 @@ make install
 ```
 
 
-**OpenCV**
+**OpenCV**<br>
 We use [OpenCV](http://opencv.org) **3.4.0**. Install it like this:
 ```
 cd /path/to/working/dir
@@ -50,7 +50,7 @@ make -j4
 make install
 ```
 
-**Eigen3**
+**Eigen3**<br>
 Required by g2o (see below). Install like this:
 ```
 cd /path/to/working/dir
@@ -67,7 +67,7 @@ make -j4
 make install
 ```
 
-**DBoW2 and g2o (Included in Thirdparty folder)**
+**DBoW2 and g2o (Included in Thirdparty folder)**<br>
 We use modified versions of the [DBoW2](https://github.com/dorian3d/DBoW2) library to perform place recognition and [g2o](https://github.com/RainerKuemmerle/g2o) library to perform non-linear optimizations. Both modified libraries (which are BSD) are included in the *Thirdparty* folder.
 
 ----------------------------------------
