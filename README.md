@@ -86,7 +86,7 @@ Large file alert (10GB)!!<br>
 [mydataset(chiba1)](https://drive.google.com/file/d/1OPh0pPgMUlDg8l0BVCaS8fnzbx-rpWPL/view?usp=sharing)<br>
 More datasets to be released:<br>
 Chiba1
-![](https://github.com/RunqiuBao/kenki-posi/build/chiba1.png "Figure 1-1")
+![Figure 1-1](https://github.com/RunqiuBao/kenki-posi/build/chiba1.png "Figure 1-1")
 
 
 ----------------------------------------
