@@ -83,14 +83,8 @@ We use modified versions of the [DBoW2](https://github.com/dorian3d/DBoW2) libra
 ----------------------------------------
 ## Dataset<br>
 Large file alert (10GB)!!<br>
-[mydataset(chiba1)](https://drive.google.com/file/d/1OPh0pPgMUlDg8l0BVCaS8fnzbx-rpWPL/view?usp=sharing)<br>
+[mydataset(chiba1)]()<br>
 More datasets to be released:<br>
-Chiba1 & Chiba2<br>
-<img src="https://i.imgur.com/1gpMtD2.png" width="250">
-<img src="https://i.imgur.com/mDp10zZ.png" width="250"><br>
-Kumamoto1 & Kumamoto2<br>
-<img src="https://i.imgur.com/qfyeIri.png" width="250">
-<img src="https://i.imgur.com/Jb4sCh8.png" width="250"><br>
 
 ----------------------------------------
 ## Citation
