@@ -90,7 +90,7 @@ More datasets to be released:<br>
 ## Citation
 To use the code, please cite:
 
-    @article{murORB2,
+    @article{kenki-posi,
       title={Stereo Camera Visual SLAM with Hierarchical Masking and Motion-state Classification at Outdoor Construction Sites Containing Large Dynamic Objects},
       author={Runqiu Bao, Ren Komatsu, Renato Miyagusuku, Atsushi Yamashita and Hajime Asama},
       journal={Advanced Robotics},
