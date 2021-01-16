@@ -89,25 +89,18 @@ More datasets to be released:<br>
 ----------------------------------------
 ## Citation
 To use the code, please cite:
-@article{doi:10.1080/01691864.2020.1869586,
-author = { Runqiu   Bao  and  Ren   Komatsu  and  Renato   Miyagusuku  and  Masaki   Chino  and  Atsushi   Yamashita  and  Hajime   Asama },
-title = {Stereo camera visual SLAM with hierarchical masking and motion-state classification at outdoor construction sites containing large dynamic objects},
-journal = {Advanced Robotics},
-volume = {0},
-number = {0},
-pages = {1-14},
-year  = {2021},
-publisher = {Taylor & Francis},
-doi = {10.1080/01691864.2020.1869586},
-
-URL = { 
-        https://doi.org/10.1080/01691864.2020.1869586
-    
-},
-eprint = { 
-        https://doi.org/10.1080/01691864.2020.1869586
-    
-}
-
-}
-
+```
+  @article{doi:10.1080/01691864.2020.1869586,
+  author = { Runqiu   Bao  and  Ren   Komatsu  and  Renato   Miyagusuku  and  Masaki   Chino  and  Atsushi   Yamashita  and  Hajime   Asama },
+  title = {Stereo camera visual SLAM with hierarchical masking and motion-state classification at outdoor construction sites containing large dynamic objects},
+  journal = {Advanced Robotics},
+  volume = {0},
+  number = {0},
+  pages = {1-14},
+  year  = {2021},
+  publisher = {Taylor & Francis},
+  doi = {10.1080/01691864.2020.1869586},
+  URL = {https://doi.org/10.1080/01691864.2020.1869586},
+  eprint = {https://doi.org/10.1080/01691864.2020.1869586}
+  }
+```
