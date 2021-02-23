@@ -105,6 +105,6 @@ To use the code, please cite:
   }
 ```
 <br>
-You can read the preprint of the paper on Arxiv:)
-[preprint](https://arxiv.org/abs/2101.06563)
+You can read the preprint of the paper on Arxiv:)<br>
+[preprint](https://arxiv.org/abs/2101.06563)<br>
 
