@@ -103,7 +103,8 @@ To use the code, please cite:
   URL = {https://doi.org/10.1080/01691864.2020.1869586},
   eprint = {https://doi.org/10.1080/01691864.2020.1869586}
   }
-```<br>
-You can read the paper on Arxiv:)
+```
+<br>
+You can read the preprint of the paper on Arxiv:)
 [preprint](https://arxiv.org/abs/2101.06563)
 
