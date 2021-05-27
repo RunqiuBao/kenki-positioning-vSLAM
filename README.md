@@ -12,7 +12,7 @@ This project is for real-time positioning for construction machines at dynamic c
 
 ----------------------------------------
 ## Dependencies
-**C++11 or C++0x Compiler**<br>
+**C++11 Compiler**<br>
 We use the new thread and chrono functionalities of C++11.
 
 **Pangolin**<br>
