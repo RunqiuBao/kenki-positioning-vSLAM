@@ -1,3 +1,0 @@
-/home/runqiu/Desktop/ORB_SLAM2/code-opensource/kenki-posi/Thirdparty/g2o/build/CMakeFiles/rebuild_cache.dir
-/home/runqiu/Desktop/ORB_SLAM2/code-opensource/kenki-posi/Thirdparty/g2o/build/CMakeFiles/edit_cache.dir
-/home/runqiu/Desktop/ORB_SLAM2/code-opensource/kenki-posi/Thirdparty/g2o/build/CMakeFiles/g2o.dir
