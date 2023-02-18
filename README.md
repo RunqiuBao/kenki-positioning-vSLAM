@@ -41,18 +41,7 @@ unzip -q 3.4.0.zip
 rm -rf 3.4.0.zip
 cd opencv-3.4.0
 mkdir -p build && cd build
-cmake \
-    -D CMAKE_BUILD_TYPE=RELEASE \ 
-    -D CMAKE_INSTALL_PREFIX=/usr/local \
-    -D WITH_TBB=ON \
-    -D BUILD_NEW_PYTHON_SUPPORT=ON \
-    -D WITH_V4L=ON \
-    -D WITH_OPENGL=ON \
-    -D ENABLE_FAST_MATH=1 \
-    -D CUDA_FAST_MATH=1 \
-    -D WITH_CUBLAS=1 \
-    -D BUILD_TIFF=ON \
-    ..  
+cmake -DCMAKE_BUILD_TYPE=RELEASE -DCMAKE_INSTALL_PREFIX=/usr/local -DWITH_TBB=ON -DBUILD_NEW_PYTHON_SUPPORT=ON -DWITH_V4L=ON -DWITH_OPENGL=ON -DENABLE_FAST_MATH=1 -DCUDA_FAST_MATH=1 -DWITH_CUBLAS=1 -DBUILD_TIFF=ON ..  
 make -j4
 make install
 ```
