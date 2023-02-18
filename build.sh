@@ -17,12 +17,6 @@ make -j6
 
 cd ../../../
 
-echo "Uncompress vocabulary ..."
-
-cd Vocabulary
-tar -xf ORBvoc.txt.tar.gz
-cd ..
-
 echo "Configuring and building ..."
 
 mkdir build

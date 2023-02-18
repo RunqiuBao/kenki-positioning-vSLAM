@@ -47,9 +47,6 @@ cmake \
     -D WITH_TBB=ON \
     -D BUILD_NEW_PYTHON_SUPPORT=ON \
     -D WITH_V4L=ON \
-    -D INSTALL_C_EXAMPLES=ON \
-    -D INSTALL_PYTHON_EXAMPLES=ON \
-    -D BUILD_EXAMPLES=ON \
     -D WITH_OPENGL=ON \
     -D ENABLE_FAST_MATH=1 \
     -D CUDA_FAST_MATH=1 \
@@ -64,10 +61,10 @@ make install
 Required by g2o (see below). Install like this:
 ```
 cd /path/to/working/dir
-wget -q http://bitbucket.org/eigen/eigen/get/3.3.4.tar.bz2
-tar xf 3.3.4.tar.bz2
-rm -rf 3.3.4.tar.bz2
-cd eigen-eigen-5a0156e40feb
+wget -q https://gitlab.com/libeigen/eigen/-/archive/3.3.4/eigen-3.3.4.tar.bz2
+tar xf eigen-3.3.4.tar.bz2
+rm -rf eigen-3.3.4.tar.bz2
+cd eigen-3.3.4
 mkdir -p build && cd build
 cmake \
     -DCMAKE_BUILD_TYPE=Release \
